@@ -1,0 +1,57 @@
+.contenedor{
+	wifth:100%;
+	margin:0 auto;
+}
+.cabeza{
+	background-color:66C9F3;
+	width:100%;
+	height:100px;
+	float:left;
+}
+.lateral{
+	background-color:#60CBBC;
+	width:35%;
+	height:600px;
+	float:left;
+	text-align:center;
+}
+.principal{
+	background-color:#fff;
+	width:65%;
+	height:600px;
+	float:left;
+}
+.pie{
+	background-color:#C8CBCA;
+	width:100%;
+	height:100px;
+	float:left;
+}
+h1{
+	font-size:50px;
+	color:#000;
+	text-align:center;
+}
+h2{
+	font-size:30px;
+	color:#000;
+	text-align:center;
+	padding-left:30;
+	paddin-rigth:30;
+	padding-top:50;
+}
+h3{
+	font-size:15px;
+	color:#000;
+	text-align:center;
+a:link{
+	color:#f8f;
+	font-size:80px;
+	}
+a:hover{
+	color:#0ff;
+	}
+a:visited{
+	color:#ff0;
+	font-size:80px;
+}
